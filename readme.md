@@ -4,7 +4,8 @@
 
 ## API Listings
 
-[Amanda-Nguyen API](./apis/Amanda-Nguyen/src/)
+[Amanda-Nguyen Java Files](https://github.com/scalemailted/csci2120-apis/tree/master/apis/Amanda-Nguyen/ItemSystem/src)
+[Amanda-Nguyen Javadocs](https://github.com/scalemailted/csci2120-apis/tree/master/apis/Amanda-Nguyen/ItemSystem/docs)
 
 
 
