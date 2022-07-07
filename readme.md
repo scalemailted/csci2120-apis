@@ -25,7 +25,7 @@
     | [Javadocs](https://scalemailted.github.io/csci2120-apis/apis/Fatima-Almayahi/Fatima-Almayahi-API/javadoc/package-summary.html)
  + **Jonathan-Malone API**
     + [Java code](https://github.com/scalemailted/csci2120-apis/tree/master/apis/Jonathan-Malone/Jonathan-Malone-API/src/)
-    | [Javadocs](https://scalemailted.github.io/csci2120-apis/apis/Jonathan-Malone/Jonathan-Malone-API/javadoc/PetStoreAPI/)
+    | [Javadocs](https://scalemailted.github.io/csci2120-apis/apis/Jonathan-Malone/Jonathan-Malone-API/javadoc/)
  + **Mitchell-Mennelle API**
     + [Java code](https://github.com/scalemailted/csci2120-apis/tree/master/apis/Mitchell-Mennelle/MetalShop/src/MetalShopAPI/)
     | [Javadocs](https://scalemailted.github.io/csci2120-apis/apis/Mitchell-Mennelle/MetalShop/JavaDoc/)
