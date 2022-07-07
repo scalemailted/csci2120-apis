@@ -25,16 +25,16 @@
     | [Javadocs](https://scalemailted.github.io/csci2120-apis/apis/Fatima-Almayahi/Fatima-Almayahi-API/javadoc/package-summary.html)
  + **Jonathan-Malone API**
     + [Java code](https://github.com/scalemailted/csci2120-apis/tree/master/apis/Jonathan-Malone/Jonathan-Malone-API/src/)
-    | [Javadocs](https://scalemailted.github.io/csci2120-apis/apis/Jonathan-Malone/Jonathan-Malone-API/javadoc/package-summary.html)
+    | [Javadocs](https://scalemailted.github.io/csci2120-apis/apis/Jonathan-Malone/Jonathan-Malone-API/javadoc/PetStoreAPI/)
  + **Mitchell-Mennelle API**
     + [Java code](https://github.com/scalemailted/csci2120-apis/tree/master/apis/Mitchell-Mennelle/MetalShop/src/MetalShopAPI/)
-    | [Javadocs](https://scalemailted.github.io/csci2120-apis/apis/Mitchell-Mennelle/MetalShop/JavaDoc/package-summary.html)
+    | [Javadocs](https://scalemailted.github.io/csci2120-apis/apis/Mitchell-Mennelle/MetalShop/JavaDoc/)
  + **Natalia-Bracamonte API**
     + [Java code](https://github.com/scalemailted/csci2120-apis/tree/master/apis/Natalia-Bracamonte/Natalia-Bracamonte-API/)
-    | [Javadocs](https://scalemailted.github.io/csci2120-apis/apis/Natalia-Bracamonte/Natalia-Bracamonte-API/docs/package-summary.html)
+    | [Javadocs](https://scalemailted.github.io/csci2120-apis/apis/Natalia-Bracamonte/Natalia-Bracamonte-API/docs/)
  + **Stephen-Mouch API**
     + [Java code](https://github.com/scalemailted/csci2120-apis/tree/master/apis/Stephen-Mouch/RPG%20Item%20System/src)
-    | [Javadocs](https://scalemailted.github.io/csci2120-apis/apis/Stephen-Mouch/RPG%20Item%20System/docs/package-summary.html)
+    | [Javadocs](https://scalemailted.github.io/csci2120-apis/apis/Stephen-Mouch/RPG%20Item%20System/docs/main/)
 
 
 
