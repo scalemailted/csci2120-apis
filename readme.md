@@ -34,7 +34,7 @@
     | [Javadocs](https://scalemailted.github.io/csci2120-apis/apis/Natalia-Bracamonte/Natalia-Bracamonte-API/docs/)
  + **Stephen-Mouch API**
     + [Java code](https://github.com/scalemailted/csci2120-apis/tree/master/apis/Stephen-Mouch/RPG%20Item%20System/src)
-    | [Javadocs](https://scalemailted.github.io/csci2120-apis/apis/Stephen-Mouch/RPG%20Item%20System/docs/main/)
+    | [Javadocs](https://scalemailted.github.io/csci2120-apis/apis/Stephen-Mouch/RPG%20Item%20System/docs/)
 
 
 
